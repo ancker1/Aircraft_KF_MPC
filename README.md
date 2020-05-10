@@ -2,9 +2,9 @@
 
 This project have been made as a part of the 5 ECTS course **Optimization and Control** at the Technical Faculty, University of Southern Denmark.
 The project have been made by:
-* **Emil Vincent Ancker**	**emanc16@student.sdu.dk**
-* **Jens Beltman Jørgensen**	**jensj16@student.sdu.dk**
-* **Søren Graabæk**		**sogra16@student.sdu.dk**
+* **Emil Vincent Ancker**>	**emanc16@student.sdu.dk**
+* **Jens Beltman Jørgensen**>	**jensj16@student.sdu.dk**
+* **Søren Graabæk**>		**sogra16@student.sdu.dk**
 
 ## Aircraft_KF_MPC.m
 
